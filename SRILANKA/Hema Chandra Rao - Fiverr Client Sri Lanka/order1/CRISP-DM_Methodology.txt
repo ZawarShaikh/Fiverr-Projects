@@ -1,0 +1,34 @@
+CRISP-DM (Cross Industry Standard Process for Data Mining) is a widely used methodology for data mining 
+and data science projects. It provides a structured approach that helps guide the entire data mining process 
+from start to finish. CRISP-DM is popular because it is industry-, tool-, and application-neutral, 
+making it highly adaptable for various types of data projects. Here are the main phases of CRISP-DM:
+
+1. Business Understanding
+Objective: Understand the project requirements and objectives from a business perspective and 
+translate this knowledge into a data mining problem definition.
+Key Tasks: Define business goals, assess the current situation, create a project plan, and identify potential risks.
+
+2. Data Understanding
+Objective: Collect and familiarize yourself with the data to determine its quality, gain insights, and identify any issues.
+Key Tasks: Data collection, initial data analysis, data description, and quality checks.
+
+3. Data Preparation
+Objective: Prepare the final dataset that will be used in the modeling phase. 
+This step often takes a significant amount of time.
+Key Tasks: Data cleaning, transformation, integration, and selection of relevant features.
+
+4. Modeling
+Objective: Apply various modeling techniques to the data to create predictive models.
+Key Tasks: Select modeling techniques, set up test scenarios, build models, and fine-tune parameters.
+
+5. Evaluation
+Objective: Assess the models to ensure they meet the business objectives and that no critical business issues were 
+overlooked.
+Key Tasks: Review model results, validate model quality, and decide whether the models are ready for deployment.
+
+6. Deployment
+Objective: Implement the model in a real-world scenario so that it can be used for decision-making.
+Key Tasks: Create a deployment plan, document the process, and ensure the model can be monitored and maintained over time.
+
+Summary
+CRISP-DM is an iterative process, meaning insights from one stage can lead to revisiting and refining earlier steps. This cycle helps teams adapt their approach to achieve the best possible results.
